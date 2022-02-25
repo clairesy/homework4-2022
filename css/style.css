@@ -59,7 +59,6 @@ a:visited{
 }
 
 #logo{
-    width: 475px;
     animation-name: logo;
     animation-duration: 5s;
 }
