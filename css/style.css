@@ -31,10 +31,7 @@ a:visited{
 .card{
     border-top-left-radius: 50px;
     border-top-right-radius: 50px;
-    display: flex;
-    flex-direction: column; 
     flex-basis: 450px; 
-    flex-wrap: wrap; 
 }
 
 .pricing{
